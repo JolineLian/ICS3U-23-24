@@ -7,7 +7,7 @@ public class Homework2Two {
        System.out.println("- Traditional Practices");
        System.err.println("- Art and Craftmanship");
        System.out.println("- language and Storytelling");
-       System.out.println("Community Traditions");
+       System.out.println("- Community Traditions");
        System.err.println("Date: Wednesdy, November 15, 2023");
        System.out.println("Duration: 60 minutes");
     }
