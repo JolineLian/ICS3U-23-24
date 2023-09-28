@@ -14,7 +14,7 @@ public class ExampleOne {
                                         // input variable is a Scanner that gets
                                         // input from the keyboard
 
-        input.close();
-        
+                                    
+        input.close(); // close resource
     }
 }
