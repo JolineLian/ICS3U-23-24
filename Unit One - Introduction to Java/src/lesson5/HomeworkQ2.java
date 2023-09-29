@@ -11,7 +11,7 @@ public static void main(String[] args) {
     System.out.print("please enter the amount of US Dollars to convert: ");
     int usDollars = in.nextInt();
 
-    double canadianDollars = usDollars * 1.25;
+    double canadianDollars = usDollars * 1.35;
 
     System.out.print("You have " + canadianDollars + " Canadian dollars");
 
